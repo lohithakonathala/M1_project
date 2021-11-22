@@ -1,5 +1,17 @@
 # requirements specification
 
+Hardware interface:
+
+Operating system: window. 
+Hard disk:40 GB. 
+RAM: 256 MB.
+Processor: Pentium(R)Dual-core CPU.
+
+software requirements:
+
+programming language: C
+database: My SQL
+
 The system requirement in library management focuses on the possibility of search for books by title, author or subject by the member. 
 
 They should be able to locate a book physically by the unique identification code and the rack number for each book. 
