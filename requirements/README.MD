@@ -3,13 +3,17 @@
 Hardware interface:
 
 Operating system: window. 
+
 Hard disk:40 GB. 
+
 RAM: 256 MB.
+
 Processor: Pentium(R)Dual-core CPU.
 
 software requirements:
 
 programming language: C
+
 database: My SQL
 
 The system requirement in library management focuses on the possibility of search for books by title, author or subject by the member. 
