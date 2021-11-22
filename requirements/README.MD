@@ -7,8 +7,7 @@ They should be able to locate a book physically by the unique identification cod
 The system should provide details on the books held by the members.
 
 
-
-Type of softwares they needed:
+Types of softwares they needed:
 
 They needed the software that built in latest software tool and easy to operate. Features they needed in the software.
 
