@@ -1,8 +1,35 @@
-# INTRODUCTION
+# requirements specification
 
-The following is an example game written in C based on the game called 'snake' 
+The system requirement in library management focuses on the possibility of search for books by title, author or subject by the member. 
 
-which has been around since the earliest days of home computing (1 can remember writing a version of it for my ZX81), and has re-emerged in recent years on mobile phones.
+They should be able to locate a book physically by the unique identification code and the rack number for each book. 
 
-It isn't the world's greatest game, but it does give you an idea of what you can achieve with a relatively simple C program, and perhaps the basis by which to extend the principles and create more interesting games of your own.
+The system should provide details on the books held by the members.
 
+
+
+Type of softwares they needed:
+
+They needed the software that built in latest software tool and easy to operate. Features they needed in the software.
+
+They needed features like reports, easy information fetching about the students,
+publishers, staff, books and many other information.
+
+Computerized Report Generation. Easy maintenance and retrieval of data.
+
+Future Requirement.
+
+Centralized and secure database.
+
+They can afford for computerized system.
+
+They can afford the computerized system as per our application requirement.
+
+Functional requirements:
+
+Book entry: In this module we can store the details of the books.
+
+Register student: in this module we can keep the details of the new student.
+
+Book issue: This module is used to keep a track of book issue details. Book return: This module enables to keep a track of
+return the books.
