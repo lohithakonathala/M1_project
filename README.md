@@ -1,1 +1,1 @@
-# M1_project
+# M1_snakegame_project
